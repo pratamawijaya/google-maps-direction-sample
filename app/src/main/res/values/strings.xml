@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleMapHitungJarak</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_direction">Map</string>
+</resources>
